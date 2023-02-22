@@ -5,7 +5,7 @@ I'm a frontend web developer with experience in HTML, CSS, SCSS, JavaScript, Vue
 
 
 ### Bio
-- 🔭 I'm currently working at CONNEKT STUDIO
+- 🏢 I'm currently working at CONNEKT STUDIO
 - ⚙️ I use daily: HTML, CSS, Javascript, Vue.js, Nuxt.js, Firebase, git & figma
 - 💬 Ping me about JavaScript, Vue, Figma, 
 - 📫 Reach me: https://twitter.com/dev_mahmudul
