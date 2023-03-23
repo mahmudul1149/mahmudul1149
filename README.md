@@ -10,7 +10,7 @@ I'm a frontend web developer with experience in HTML, CSS, SCSS, JavaScript, Vue
 - 💬 Ping me about JavaScript, Vue, Figma, 
 - 📫 Reach me: https://twitter.com/dev_mahmudul
 - ⚡ Fun fact: I'm a huge fan of Fantasy Movies
-
-* My Speech To Text Project
+  
+ Watch my speech to text openAI api project:
 [New Recording - 3_23_2023, 5_41_22 PM.webm](https://user-images.githubusercontent.com/97284604/227200007-64fb32a2-9855-42a1-b2f5-32df387c7351.webm)
-[New Recording - 3_23_2023, 5_41_22 PM.webm](https://user-images.githubusercontent.com/97284604/227205212-f5d2e350-0f41-4df0-a8c9-15f5112752a5.webm)
+
