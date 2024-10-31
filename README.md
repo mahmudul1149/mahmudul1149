@@ -1,12 +1,11 @@
 ## Hi there, I'm Mahmudul 👋
 
 
-I'm a frontend web developer with experience in HTML, CSS, SCSS, JavaScript, Vue.js, Nuxt.js, Figma, and Git. I love creating elegant, efficient and user-friendly web experiences. I'm always learning and trying to improve my skills, staying up-to-date with the latest web technologies and design trends
-
+I am a Frontend Developer with 1.5+ years of professional experience in creating dynamic web applications using HTML, CSS, Tailwind CSS, JavaScript, Vue.js, Vuetify, and Nuxt.js. Proficient in Node.js and MongoDB, I have contributed to various projects, including AI-powered applications that engage thousands of users daily and drive revenue. I am passionate about developing user-friendly interfaces and staying updated with industry trends.
 
 ### Bio
-- 🔭 I’m currently working on apollohms.co
-- ⚙️ I use daily: HTML, CSS, Javascript, Vue.js, Nuxt.js, Firebase, git & figma
+- 🔭 I’m currently working on Quiz Maker Ai
+- ⚙️ I use daily: HTML, CSS, SCSS, Tailwind Css, Javascript, Vue.js, Nuxt.js, Vuetify, Firebase, git & figma
 - 💬 Ping me about JavaScript, Vue, Figma, 
 - 📫 Reach me: https://twitter.com/dev_mahmudul
 - ⚡ Fun fact: I'm a huge fan of Fantasy Movies
