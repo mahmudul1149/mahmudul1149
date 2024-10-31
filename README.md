@@ -4,7 +4,7 @@
 I am a Frontend Developer with 1.5+ years of professional experience in creating dynamic web applications using HTML, CSS, Tailwind CSS, JavaScript, Vue.js, Vuetify, and Nuxt.js. Proficient in Node.js and MongoDB, I have contributed to various projects, including AI-powered applications that engage thousands of users daily and drive revenue. I am passionate about developing user-friendly interfaces and staying updated with industry trends.
 
 ### Bio
-- 🔭 I’m currently working on Quiz Maker Ai
+- 🔭 I’m currently working on vocalo.ai & sketchtoimage.ai
 - ⚙️ I use daily: HTML, CSS, SCSS, Tailwind Css, Javascript, Vue.js, Nuxt.js, Vuetify, Firebase, git & figma
 - 💬 Ping me about JavaScript, Vue, Figma, 
 - 📫 Reach me: https://twitter.com/dev_mahmudul
