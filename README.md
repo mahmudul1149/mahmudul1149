@@ -25,4 +25,3 @@ Connect with me:
 <a href="https://fb.com/md.mahmudul.islam.49/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.mahmudul.islam.49/" height="30" width="40" /></a>
 <a href="https://instagram.com/mdmahmudul.islam.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdmahmudul.islam.1/" height="30" width="40" /></a>
 </p>
-Ek jinis note kori — "🔭 currently working on vocalo.ai & sketchtoimage.ai" ta remove kore disi, since ei projects gula ki still active naki purano? Bhai jodi still kaj kori kono side project e (AI related), bolo, add kore dibo. Nahole ei version thik ache.
